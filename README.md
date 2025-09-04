@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://indiefluence.in">
-    <img src="../assets/indiefluence-logo.svg" alt="Indiefluence Logo" width="200" />
+    <img src="./assets/indiefluence-logo.svg" alt="Indiefluence Logo" width="200" />
   </a>
 </p>
 
